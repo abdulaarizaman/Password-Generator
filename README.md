@@ -22,7 +22,7 @@ This tool helps users create strong, secure passwords instantly with multiple cu
 
 ## 🖼️ Preview
 
-![Password Generator Screenshot](screenshot.png)
+![Password Generator Screenshot](screenshot.PNG)
 
 *(Add your project screenshot with the filename `screenshot.png` in the repository folder.)*
 
@@ -110,5 +110,6 @@ https://abdulaarizaman.github.io/password-generator/
 **Abdul Aariz Aman**  
 
 ---
+
 
 ⭐ If you found this project useful, consider giving it a **star**!
