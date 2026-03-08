@@ -1,0 +1,63 @@
+body{
+font-family: Arial, sans-serif;
+background:#0f172a;
+display:flex;
+justify-content:center;
+align-items:center;
+height:100vh;
+color:white;
+}
+
+.container{
+background:#1e293b;
+padding:30px;
+border-radius:12px;
+width:320px;
+}
+
+h1{
+text-align:center;
+margin-bottom:20px;
+}
+
+.output{
+display:flex;
+margin-bottom:15px;
+}
+
+.output input{
+flex:1;
+padding:10px;
+border:none;
+border-radius:6px 0 0 6px;
+}
+
+.output button{
+padding:10px;
+border:none;
+background:#3b82f6;
+color:white;
+cursor:pointer;
+border-radius:0 6px 6px 0;
+}
+
+.controls{
+display:flex;
+flex-direction:column;
+gap:10px;
+}
+
+#generate{
+background:#22c55e;
+border:none;
+padding:10px;
+cursor:pointer;
+border-radius:6px;
+margin-top:10px;
+}
+
+.strength{
+margin-top:15px;
+text-align:center;
+font-weight:bold;
+}
