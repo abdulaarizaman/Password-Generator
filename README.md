@@ -77,10 +77,6 @@ git clone https://github.com/abdulaarizaman/password-generator.git
 
 
 
-```
-https://abdulaarizaman.github.io/password-generator/
-```
-
 ---
 
 ## 🎯 Future Improvements
@@ -101,4 +97,5 @@ https://abdulaarizaman.github.io/password-generator/
 
 
 ⭐ If you found this project useful, consider giving it a **star**!
+
 
