@@ -75,19 +75,7 @@ git clone https://github.com/abdulaarizaman/password-generator.git
 
 3. Run `index.html` in your browser.
 
----
 
-## 🌐 Live Demo
-
-You can host this project easily using **GitHub Pages**.
-
-Steps:
-1. Go to **Repository Settings**
-2. Click **Pages**
-3. Select branch **main**
-4. Save
-
-Your project will be live at:
 
 ```
 https://abdulaarizaman.github.io/password-generator/
@@ -113,3 +101,4 @@ https://abdulaarizaman.github.io/password-generator/
 
 
 ⭐ If you found this project useful, consider giving it a **star**!
+
